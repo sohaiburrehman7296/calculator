@@ -18,4 +18,4 @@ solve problems in seconds that would take hours to complete manually.
 4. Run the file ./calc
 
 ## Condtribtions
-Contibtions feom opensource developersare welcomed
+Contibtions feom opensource developersare welcomed.
